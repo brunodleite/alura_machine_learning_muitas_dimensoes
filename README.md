@@ -4,7 +4,7 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 
 # Projeto
 
-~> [projeto.ipynb](https://github.com/brunodleite/alura_pandas_tecnicas_avancadas/blob/main/projeto.ipynb)
+~> [projeto.ipynb](https://github.com/brunodleite/alura_machine_learning_muitas_dimensoes/blob/main/alura_care.ipynb)
 
 # Aulas
 ## Dados com muitas dimensões
